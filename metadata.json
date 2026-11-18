@@ -1,0 +1,6 @@
+{
+  "name": "Green Bill Book",
+  "description": "Mobile-first PWA for Indian shopkeepers, medical stores, farmers, dairy owners, and wholesalers to manage billing, inventory, udhar khata ledgers, and monthly profit & loss reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
